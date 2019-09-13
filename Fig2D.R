@@ -1,4 +1,4 @@
-# Figure 3D#####
+# Figure 2D#####
 # part 1 ####
 outPutLoc <- "/camp/lab/swantonc/working/mcgrann/projects/pfSim_Rver10/output_20190829_essential_mutRate///"
 tableLength <- 6
